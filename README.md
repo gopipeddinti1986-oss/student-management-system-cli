@@ -1,5 +1,11 @@
 # 🎓 Student Management System (CLI)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-blue.svg"/>
+  <img src="https://img.shields.io/badge/Type-CLI-green.svg"/>
+  <img src="https://img.shields.io/badge/Status-Complete-brightgreen.svg"/>
+</p>
+
 ---
 
 ## ✨ Features
