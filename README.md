@@ -101,6 +101,15 @@ Password: 1234
 
 ---
 
+
+## 🧪 Example Use Case
+
+- Add student records with marks  
+- Automatically calculates total, average, and grade  
+- Search/update/delete student data  
+- Data persists even after program restart
+
+- 
 ## 🚀 Key Highlights
 
 * ✔️ Clean modular architecture
